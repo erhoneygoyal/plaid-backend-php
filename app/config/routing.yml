@@ -1,0 +1,7 @@
+barany_plaid_main:
+    resource: "@BaranyPlaidMainBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+logout:
+    path: /logout
